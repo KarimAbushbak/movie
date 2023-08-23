@@ -7,7 +7,7 @@ class ManagerAssets {
   static const String outBoarding3 = 'assets/images/out_boarding/img3.png';
   static const String outBoarding4 = 'assets/images/out_boarding/img4.png';
   static const String authBg = 'assets/images/auth/auth_bg.png';
-  static const String logo = 'assets/images/auth/logo.png';
+  static const String logo = 'assets/images/auth/splash2.png';
   static const String facebook = 'assets/images/auth/facebook.png';
   static const String google = 'assets/images/auth/google.png';
   static const String twitter = 'assets/images/auth/twitter.png';

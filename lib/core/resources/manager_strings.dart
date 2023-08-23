@@ -1,5 +1,5 @@
 class ManagerStrings {
-  static const String appName = 'Shop App';
+  static const String appName = 'Mao Trailer';
   static const String outBoardingTitle1 = 'Title One';
   static const String outBoardingTitle2 = 'Title Two';
   static const String outBoardingTitle3 = 'Title Three';

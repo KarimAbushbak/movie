@@ -3,8 +3,8 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class ManagerColors {
-  static const Color primaryColor = Color(0xffFF7F3F);
-  static Color secondaryColor = Colors.brown;
+  static const Color primaryColor = Color(0xfff99f00);
+  static Color secondaryColor = Color(0xffdb3069);
   static Color brown200 = Colors.brown.shade300;
   static Color transparent = Colors.transparent;
   static Color white = Colors.white;
